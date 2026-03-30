@@ -134,6 +134,12 @@ h2 {
   font-size: 17px;
 }
 
+.paper .paper-links {
+  font-size: 14px;
+  margin-left: 4px;
+  color: #888;
+}
+
 .paper .authors {
   font-size: 15px;
   color: #666;
